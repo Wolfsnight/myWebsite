@@ -1,0 +1,26 @@
+/*  Basis:  **********************************************/
+
+/*  Schriftart:  *****************************************/
+
+/*  Roboto:  */
+@font-face {
+  font-family: "Roboto";
+  src: url(../fonts/roboto-regular.woff2) format("woff2");
+}
+
+/*  Roboto - Slab:  */
+@font-face {
+  font-family: "Roboto-Slab";
+  src: url(../fonts/roboto-slab.woff2) format("woff2");
+}
+
+/*  Schrift und Text:  ***********************************/
+
+h1 {
+  font-family: "Roboto-Slab", monospace;
+}
+p {
+  font-family: "Roboto", monospace;
+}
+
+/*  Layout:  *********************************************/
